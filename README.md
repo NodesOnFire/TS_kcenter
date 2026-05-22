@@ -4,4 +4,4 @@ stm_tabu_search.cpp implements a basic attribute-based short-term memory strateg
 
 ltm_tabu_search.cpp implements a basic attribute-based long-term memory strategy for the vertx k-center problem.
 
-[Check the code explanation on YouTube](Tabu Search)]((https://youtu.be/npXJJIAplMI?si=_BqNFQC7EHKIemfV))
+[Check the code explanation on YouTube](https://youtu.be/npXJJIAplMI?si=_BqNFQC7EHKIemfV)
